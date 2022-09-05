@@ -1,0 +1,10 @@
+<!-- hyperLinks -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hyperlinks</title>
+  </head>
+  <body>
+    <p>Mr. <abbr title="shaamNatheshwar">shaam</abbr> was born on May 23, 2002
+  </body>
+</html>
