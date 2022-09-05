@@ -1,0 +1,14 @@
+<!-- hyperLinks -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hyperlinks</title>
+  </head>
+  <body>
+    <h1>HyperLinks</h1>
+    <a href="www.w3resource.com/images/w3resourcelogo.png" hreflang="en-us" media="print, handheld">click to go to youtube</a>
+    <a href=#>nothing</a> <!--nothing-->
+    <h2><a href="#down"> click to go down </a></h2><!--navigation with html-->
+    <p id="down"> this is the down iD</p>
+  </body>
+</html>
