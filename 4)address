@@ -1,0 +1,12 @@
+<!-- hyperLinks -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>hyperlinks</title>
+  </head>
+  <body>
+    <address>
+      about us <a href = "www.w3resource.com/about.php"> w3resource </a>
+    </address>
+  </body>
+</html>
